@@ -6,6 +6,7 @@ function BlogCard() {
       <img
         src="https://vaqybtnqyonvlwtskzmv.supabase.co/storage/v1/object/public/projects-images/blog-card/starter/img/blog-article-image.jpg"
         alt="living room with modern furniture"
+        className="blog-card__image"
       />
       <div className="blog-card__info-container">
         <span className="blog-card__tag">Interior</span>

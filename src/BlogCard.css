@@ -6,6 +6,13 @@
     overflow: hidden;
 }
 
+.blog-card__image {
+    height: 288px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+}
+
 .blog-card__info-container {
     padding: 24px 16px;
 }
